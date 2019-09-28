@@ -1,2 +1,2 @@
-# Forest-Cover-Detection
-Notebook for detecting whether given tree is Western Yellow Pine or not on the basis of given ecological data
+# Forest-Cover-Classification
+Notebook for classifying whether given tree is Western Yellow Pine or not on the basis of given ecological data
